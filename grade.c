@@ -2,7 +2,7 @@
 
 int main(){
     int per;
-    printf("Enter your exam result percentage\n");
+    printf("Enter your exam result ur percentage\n");
     printf("Enter percentage : ");
     scanf("%d", &per);
 
